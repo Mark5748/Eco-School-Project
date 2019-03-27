@@ -1,0 +1,965 @@
+100
+Normal Lights
+8
+Workcenter 5890
+3
+
+101
+Normal Lights
+76
+
+102 (Workroom)
+Normal Lights
+48
+
+103
+Normal Lights
+32
+Emergency Lights
+4
+HP rp5700
+19
+
+104 (Construction)
+Normal Lights
+76
+
+107 (Cafeteria Kitchen)
+Normal Lights
+28
+
+108
+Normal Lights
+9
+
+109B
+Normal Lights
+46
+Fridge
+3
+Microwave
+1
+
+110
+Normal Lights
+30
+Emergency Lights
+3
+Optiplex 390
+4
+Optiplex 3010
+1
+Fridge
+1
+
+112
+Normal Lights
+68
+BENQ Projector
+1
+
+113(Music Room)
+Normal Lights
+64
+Emergency Lights
+4
+iMac
+2
+
+114
+Normal Lights
+30
+Optiplex 3020
+2
+Optiplex 3040
+1
+OKI B720
+1
+Microwave
+1
+
+115
+Normal Lights
+12
+Emergency Lights
+4
+ToshibaTV
+1
+
+Library/Learning Centre
+Normal Lights
+178
+Pot Lights
+41
+Epson Projector
+1
+Optiplex 3040
+26
+Optiplex 390
+6
+SamsungTV
+1
+5955 Xerox Printer
+1
+OKI Printer
+1
+
+Seminar Room 1 (Library)
+Normal Lights
+8
+Dell 390
+1
+
+Seminar Room 2(Library)
+Normal Lights
+8
+OKI B721
+1
+Optiplex 390
+1
+
+Library Break Room
+Normal Lights
+4
+Microwave
+1
+Mini-Fridge
+1
+
+LePage Office
+Normal Lights
+8
+
+Library Audio/Visual Office
+Normal Lights
+12
+Emergency Lights
+4
+Optiplex 390
+1
+Optiplex 3010
+1
+Toshiba TV
+1
+
+Guidance Office 
+Normal Lights
+33
+Emergency Lights
+3
+OKI Printer
+2
+5955 Xerox Printer
+1
+Optiplex 380
+1
+Optiplex 390
+2
+Optiplex 3020
+1
+
+Cunningham Office
+Normal Lights
+6
+Optiplex 3010
+1
+
+Bindoo Office
+Normal Lights
+6
+Optiplex 3010
+1
+
+LedBrook Office
+Normal Lights
+6
+Optiplex 3010
+1
+
+Vasille Office
+Normal Lights
+9
+Optiplex 3040
+1
+Lexmark T630
+1
+
+Robitaille Office
+Normal Lights
+9
+Optiplex 3040
+1
+
+Guidance Storage
+Normal Lights
+6
+
+Counseling F
+Normal Lights
+6
+Microwave
+1
+
+Settlement Worker Room
+Normal Lights
+3
+
+Main Office
+Normal Lights
+30
+Emergency Lights
+14
+Optiplex 390
+1
+Optiplex 3010
+1
+Optiplex 3040
+1
+
+Office Workroom
+Normal Lights
+5
+Microwave
+1
+5955 Xerox
+1
+
+Principle Office
+Normal Lights
+9
+
+VP Office (Bolger)
+Normal Lights
+6
+
+VP Office (Meier)
+Normal Lights
+6
+OKI Printer
+1
+
+VP Office (Grieve)
+Normal Lights
+6
+Optiplex 3040
+1
+Lexmark T630
+1
+
+Would (Psychology Staff)
+Normal Lights
+6
+OKI Printer
+1
+
+Attendance Office
+Normal Lights
+24
+Optiplex 3040
+1
+Lexmark MS8
+1
+
+Gym
+Normal Lights
+400
+
+Phys-Ed Office
+Normal Lights
+23
+Lexmark T630
+1
+Optiplex 3020
+1
+
+Boys Washroom (First Floor)
+Normal Lights
+20
+
+Girls Washroom (First Floor)
+Normal Lights
+18 
+
+Floor 1 Hallway
+Normal Lights
+331
+Pot Lights
+52
+Vending Machine
+2
+
+222
+Normal Lights
+42
+
+204
+Normal Lights
+48
+Dell 3020
+1
+Epson Projector
+1
+
+210
+Normal Lights
+32
+Dell 3020
+3
+Lexmark Printer
+1
+Microwave
+1
+Fridge
+1
+
+215
+Normal Lights
+34
+Dell 3020
+48
+BENQ Projector
+1
+Lexmark Printer
+1
+Smart Board
+1
+
+229
+Normal Lights
+34
+Dell 3020
+4
+Lexmark
+1
+
+223A
+Normal Lights
+36
+Dell 3020
+1
+Smart Board
+1
+
+223B
+Normal Lights
+36
+Dell 3020
+1
+Smart Board
+1
+
+227
+Normal Lights
+40
+Emergency Lights
+4
+Dell 3020
+1
+Smart Board
+1
+
+228
+Normal Lights
+32
+Emergency Lights
+4
+Dell 3020
+1
+Smart Board
+1
+
+203
+Normal Lights
+32
+Emergency Lights
+4
+Dell 3020
+1
+Smart Projector
+1
+
+202
+Normal Lights
+17
+Emergency Lights
+4
+Dell 3020
+1
+
+201
+Normal Lights
+48
+Dell 3020
+28
+BENQ Projector
+1
+
+205
+Normal Lights
+42
+Dell 3020
+28
+Benq Projector
+1
+
+206
+Normal Lights
+36
+Dell 3020
+9
+BENQ Projector
+1
+
+207
+Normal Lights
+24
+Dell 3020
+9
+Oki Printer
+1
+
+208A
+Normal Lights
+48
+Dell 3020
+1
+Smart Projector
+1
+
+208B
+Normal Lights
+36
+Dell 3020
+1
+Smart Board
+1
+
+209
+Normal Lights
+48
+Dell 3020
+1
+Smart Projector
+1
+
+211
+Normal Lights
+36
+Dell 3020
+1
+Smart Board
+1
+
+212
+Normal Lights
+36
+Dell 3020
+1
+
+213
+Normal Lights
+32
+Dell 3020
+5
+Oki Printer
+1
+
+214
+Normal Lights
+32
+
+216
+Normal Lights
+36
+Dell 3020
+2
+Smart Board
+1
+
+217
+Normal Lights
+56
+Dell 3020
+1
+BENQ Projector
+1
+
+218
+Normal Lights
+16
+Dell 3020
+2
+Microwave
+1
+Fridge
+1
+Oki Printer
+1
+
+219
+Normal Lights
+16
+
+220
+Normal Lights
+76
+Dell 3020
+4
+Toshiba TV
+1
+
+221
+Normal Lights
+33
+Dell 3020
+3
+Oki Printer
+1
+Samsung TV
+1
+
+224
+Normal Lights
+34
+Emergency Lights
+4
+Dell 3020
+1
+
+225
+Normal Lights
+34
+Emergency Lights
+4
+Dell 3020
+1
+
+Science Office
+Normal Lights
+32
+Dell 3020
+4
+Oki Printer
+1
+
+Science Prep Room
+Normal Lights
+44
+
+Science Hallway
+Normal Lights
+48
+Xerox Printer
+1
+
+Girls Washroom (Second Floor)
+Normal Lights
+24
+
+Boys Washroom (Second Floor)
+Normal Lights
+20
+
+Floor 2 Hallway
+Normal Lights
+178
+Pot Lights
+48
+
+335
+Normal Lights
+32
+Emergency Lights
+4
+Dell 3020
+1
+
+Project Storage
+Normal Lights
+24
+Emergency Lights
+2
+
+332
+Normal Lights
+32
+Smart Board
+1
+
+333
+Normal Lights
+32
+Dell 3020
+1
+Smart Board
+1
+
+334
+Normal Lights
+28
+Dell 3020
+2
+Fridge
+1
+Microwave
+1
+OKI Printer
+1
+
+331
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+329
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+328
+Normal Lights
+16
+Dell 3020
+1
+Epson Projector
+2
+
+327
+Normal Lights
+28
+Emergency Lights
+4
+Dell 3020
+18
+
+Resources Department
+Normal Lights
+16
+Dell 3020
+2
+Microwave
+1
+Fridge
+1
+
+324
+Normal Lights
+28
+Dell 3020
+15
+Lexmark Printer
+1
+Smart Board
+1
+
+326
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+325
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+323
+Normal Lights
+32
+Dell 3020
+1
+Smart Projector
+1
+Toshiba TV
+
+322
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+321
+Normal Lights
+32
+Dell 3020
+1
+Smart Projector
+1
+
+330
+Normal Lights
+12
+Dell 3020
+1
+Smart Projector
+1
+
+320
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+Boys Washroom (Third Floor) (Near Green)
+Normal Lights
+34
+
+Girls Washroom (Third Floor) (Near Green)
+Normal Lights
+24
+
+319
+Normal Lights
+14
+Dell 3020
+1
+Lexmark Printer
+1
+
+318
+Normal Lights
+18
+Emergency Lights
+32
+Dell 3020
+1
+Fridge
+1
+Microwave
+1
+Samsung TV
+1
+
+Storage
+Normal Lights
+3
+Xerox Printer
+1
+
+315
+Normal Lights
+16
+Dell 3020
+2
+Fridge
+1
+Microwave
+1
+Lexmark Printer
+1
+
+316
+Normal Lights
+8
+Dell 3020
+3
+OKI Printer
+1
+Fridge
+1
+
+312
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+
+311
+Normal Lights
+32
+Dell 3020
+1
+Smart Board
+1
+Sharp TV
+1
+
+307
+Normal Lights
+36
+Emergency Lights
+4
+Dell 3020
+1
+Toshiba TV
+1
+
+309
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+336
+Normal Lights
+44
+Dell 3020
+1
+
+310
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+Boys Washroom (Third Floor) (Near Yellow)
+Normal Lights
+34
+
+Girls Washroom (Third Floor) (Near Yellow)
+Normal Lights
+34
+
+306
+Normal Lights
+33
+Dell 3020
+3
+Lexmark Printer
+1
+
+304
+Normal Lights
+32
+Microwave
+1
+
+303
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+302
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+Custodial
+Normal Lights
+2
+
+301
+Normal Lights
+14
+Dell 3020
+2
+OKI Printer
+1
+Microwave
+1
+
+337
+Normal Lights
+68
+Emergency Lights
+12
+Dell 3020
+30
+Fridge
+1
+
+339
+Normal Lights
+18
+
+343
+Normal Lights
+24
+iMac
+8
+
+340
+Normal Lights
+24
+iMac
+25
+Epson Projector
+1
+OKI Printer
+1
+
+338
+Normal Lights
+24
+Dell 3020
+1
+Microwave
+1
+Fridge
+1
+Lexmark Printer
+1
+
+313
+Normal Lights
+32
+Dell 3020
+1
+Toshiba TV
+1
+
+314
+Normal Lights
+32
+Dell 3020
+1
+Smart Board
+1
+Toshiba TV
+1
+
+317
+Normal Lights
+20
+Microwave
+1
+
+305
+Normal Lights
+32
+Dell 3020
+1
+Smart Board
+1
+
+Yellow Stairwell
+Emergency Lights
+15
+
+Green Stairwell
+Emergency Lights
+15
+
+Purple Stairwell
+Emergency Lights
+15
+
+Blue Stairwell
+Emergency Lights
+15
